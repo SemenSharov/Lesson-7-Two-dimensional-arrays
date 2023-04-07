@@ -1,0 +1,15 @@
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\bin\Debug\net7.0\Task_52.exe
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\bin\Debug\net7.0\Task_52.deps.json
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\bin\Debug\net7.0\Task_52.runtimeconfig.json
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\bin\Debug\net7.0\Task_52.dll
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\bin\Debug\net7.0\Task_52.pdb
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\Task_52.csproj.AssemblyReference.cache
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\Task_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\Task_52.AssemblyInfoInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\Task_52.AssemblyInfo.cs
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\Task_52.csproj.CoreCompileInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\Task_52.dll
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\refint\Task_52.dll
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\Task_52.pdb
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\Task_52.genruntimeconfig.cache
+C:\Моя папка\Обучение програмированию\Lesson_7_Two_dimensional_arrays\Task_52\obj\Debug\net7.0\ref\Task_52.dll
